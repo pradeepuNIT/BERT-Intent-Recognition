@@ -1,0 +1,4 @@
+__pycache__
+models/
+BERT_BASE_DIR/
+.ipynb_checkpoints/
